@@ -1,0 +1,26 @@
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\AppAzureBlob.deps.json
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\ref\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\AppAzureBlob.pdb
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.AssemblyInfo.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\ref\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.pdb
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\AppAzureBlob.deps.json
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\ref\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\bin\Debug\netstandard2.0\AppAzureBlob.pdb
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.AssemblyInfo.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\ref\AppAzureBlob.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\3 Parcial\AppAzureBlob\AppAzureBlob\obj\Debug\netstandard2.0\AppAzureBlob.pdb
