@@ -1,2 +1,2 @@
 # AppAzureBlob
-Aplucacion de Xamarin con conexión a repositorios de almacenamiento en Azure
+Aplicación de Xamarin con conexión a repositorios de almacenamiento en Azure
